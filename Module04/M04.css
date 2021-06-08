@@ -1,0 +1,48 @@
+<style type="text/css">
+			* {
+				font-family: 'TGRomanRegular';
+				font-weight: normal;
+				font-style: normal;
+				color: #000000;
+				text-align: center;}
+			body {
+				 background-image:url("https://wallpaperaccess.com/full/649774.jpg");
+				width: 90%;
+				margin: 0 auto;
+			}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #808080;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #0000FF;}
+			#feature {
+ 				background-color: #A9A9A9;
+				background-image: url(https://purepng.com/public/uploads/large/purepng.com-spidermanspider-manspidermansuperherocomic-bookmarvel-comicscharacterstan-lee-1701528655449lti49.png);
+ 				background-size:contain;
+ 				background-position: right;
+ 				background-repeat:no-repeat;}
+ 			.column1, .column3 {
+ 				background-color: #FF0000;
+ 			}
+ 			h1 {
+ 				font-family: 'CurlyHogRunesMedium';
+ 				font-weight: bold;
+ 				font-style: normal;
+ 				color: #FFD700;
+ 			}
+	</style>
